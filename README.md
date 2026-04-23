@@ -13,23 +13,17 @@ I’m a B.Tech Computer Science student at KIIT (2023–2027) who loves turning 
 
 ## 💻 Technical Skills
 
-**Languages:**  
-Java, C, Python  
+**Languages:**  Java, C, Python  
 
-**Frontend:**  
-React.js, HTML5, CSS3, Tailwind CSS  
+**Frontend:**  React.js, HTML5, CSS3, Tailwind CSS  
 
-**Backend:**  
-Node.js, JavaScript, Next.js 
+**Backend:**  Node.js, JavaScript, Next.js 
 
-**Tools & Technologies:**  
-Git, GitHub, VS Code  
+**Tools & Technologies:**  Git, GitHub, VS Code  
 
-**Core Subjects:**  
-Data Structures, Operating Systems, OOP, DBMS  
+**Core Subjects:**  Data Structures, Operating Systems, OOP, DBMS  
 
-**Data & Visualization:**  
-Power BI ,Flask 
+**Data & Visualization:**  Power BI ,Flask 
 
 ---
 
