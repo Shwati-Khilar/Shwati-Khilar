@@ -77,10 +77,9 @@ Power BI ,Flask
 
 ---
 
-## 📫 Connect With Me
+## 📫 Connect With Me 
 
-- 📧 Email: shwatikhilar@gmail.com  
-- 💼 LinkedIn: (add your link)  
+- 💼 LinkedIn: www.linkedin.com/in/shwati-kalpana-khilar-019476344 
 - 💻 GitHub: https://github.com/yourusername  
 
 ---
