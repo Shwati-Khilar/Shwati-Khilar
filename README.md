@@ -80,7 +80,7 @@ Power BI ,Flask
 ## 📫 Connect With Me 
 
 - 💼 LinkedIn: www.linkedin.com/in/shwati-kalpana-khilar-019476344 
-- 💻 GitHub: https://github.com/yourusername  
+- 💻 GitHub: https://github.com/Shwati-Khilar 
 
 ---
 
